@@ -21,7 +21,7 @@ public class Nomor2 { // untuk membuat class
                 case "februari":
                     System.out.print("28 Hari");
                     break;   
-            } // untuk menutup program
-        } // untuk menutup class
-    }
-}
+            } 
+        } // untuk menutup objek try
+    } // untuk menutup program
+} // untuk menutup class
