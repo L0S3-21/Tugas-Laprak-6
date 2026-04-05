@@ -36,3 +36,4 @@ public class Nomor1 { // untuk membuat sebuah class
 } // untuk menutup class
 // tambahin lagi ahh
 // apalah banget jir
+//coba tambah lagi
