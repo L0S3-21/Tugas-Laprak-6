@@ -34,3 +34,5 @@ public class Nomor1 { // untuk membuat sebuah class
         System.out.println(monthString); // untuk mencetak hasil output
     } // untuk menutup program
 } // untuk menutup class
+// tambahin lagi ahh
+// apalah banget jir
